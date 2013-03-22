@@ -1,0 +1,9 @@
+# IntelliJ specific items
+.idea/
+TickTock.iml
+
+# Generated files
+bin/
+gen/
+local.properties
+
