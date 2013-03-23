@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!--
+<?xml version="1.0" encoding="utf-8"?><!--
   ~ Copyright (C) 2013 Alex Curran.
   ~
   ~ Licensed under the Apache License, Version 2.0 (the "License");
@@ -15,16 +14,7 @@
   ~ limitations under the License.
   -->
 
-<android.support.v4.view.ViewPager xmlns:android="http://schemas.android.com/apk/res/android"
-    android:layout_width="fill_parent"
-    android:layout_height="fill_parent"
-    android:id="@+id/pager">
-
-    <android.support.v4.view.PagerTitleStrip
-        android:gravity="top"
-        android:layout_height="wrap_content"
-        android:layout_width="match_parent"
-        style="@style/titleStrip" />
-
-</android.support.v4.view.ViewPager>
-
+<resources>
+    <color name="app_color">#003985</color>
+    <color name="app_color_80">#BB003985</color>
+</resources>
